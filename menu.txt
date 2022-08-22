@@ -5,3 +5,5 @@ I want these
 dosa
 idly
 wada
+pizza
+burger
