@@ -7,3 +7,4 @@ idly
 wada
 pizza
 burger
+2 non-veg items can be removed
